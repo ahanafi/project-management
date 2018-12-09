@@ -1,0 +1,4 @@
+Options -Indexes
+
+ErrorDocument 404 /appman/errors/
+ErrorDocument 403 /appman/errors/forbidden/

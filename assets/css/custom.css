@@ -1,0 +1,72 @@
+.ctr{
+	text-align: center !important;
+}
+
+.content-app > h3{
+	margin-top: -6px !important;
+}
+
+#main-content{
+	min-height: 300px;
+}
+footer{
+	width: 100%;
+	text-align: center;
+	bottom: 20px;
+	z-index: 0 !important;
+}
+
+textarea{
+	resize: none !important;
+	resize: disabled !important;
+}
+
+.disabled{
+	cursor: not-allowed !important;
+}
+
+.error{
+	margin-top: 80px;
+	width: 100%;
+	text-align: center;
+}
+.error h1{
+	margin-bottom: -17.5px;
+	color: #ddd;
+	font-size: 240px;
+	text-shadow: 1px 1px 2px #aaa;
+}
+
+.error p{
+	font-size: 40px;
+	margin:0;
+}
+
+table.table > thead > tr > th{
+	vertical-align: middle;
+	text-align: center;
+	font-weight: bold;
+	color: #333;
+}
+
+select[name=data_length]{
+	text-align: center !important;
+	text-align-last:center !important;
+}
+select[name=data_length] > option{
+	text-align: center;
+	float:none !important;
+	margin: 0 auto !important;
+}
+
+input[type=search]{
+	/* text-align: center; */
+}
+.btn-link{
+	color: #127ba3 !important;
+}
+
+ul.dropdown-menu li a:hover{
+	background: #2196f3 !important;
+	color: #fff !important;
+}
